@@ -19,7 +19,7 @@ I'm always open to learning, collaborating, and contributing to innovative proje
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-borges-01a47527b/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/bernardoborges0)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/bernardoborges01)
 [![TikTok](https://img.shields.io/badge/TikTok-EE1D52?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@trinkk1?lang=pt-BR)
 
 ---
